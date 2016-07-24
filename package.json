@@ -1,0 +1,23 @@
+{
+  "name": "hire-me-sphero",
+  "version": "1.0.0",
+  "description": "Use the npm module 'Sphero.js' to run my SPRK+ and spell out 'hire me' in cursive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasAndruzzi/hireMeSphero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasAndruzzi/hireMeSphero/issues"
+  },
+  "homepage": "https://github.com/NicolasAndruzzi/hireMeSphero#readme",
+  "dependencies": {
+    "serialport": "^4.0.1",
+    "sphero": "^0.9.2"
+  }
+}
